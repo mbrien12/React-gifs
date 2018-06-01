@@ -13,7 +13,7 @@ class App extends Component {
       <div>
         <div className="left-scene">
        
-          <Gif gifId={'1L5YuA6wpKkNO'} />
+          <Gif gifId={"1L5YuA6wpKkNO"} />
         </div>
         <div className="right-scene">
      
